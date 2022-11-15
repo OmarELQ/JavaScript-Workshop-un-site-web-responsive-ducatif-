@@ -1,0 +1,16 @@
+input {
+  margin: 0 3rem;
+}
+button {
+  background-color: black;
+  color: #fff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 1rem;
+}
+#output {
+  background-color: #fff;
+  width: 100%;
+  padding-left: 1em;
+}
